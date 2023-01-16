@@ -1,0 +1,47 @@
+{
+  "Drill": {
+    "Flutes": false,
+    "Speed": true,
+    "FeedPerFlute": false,
+    "Feed": true,
+    "FeedPerRev": true,
+    "Length": true,
+    "Pitch": false
+  },
+  "CenterDrill": {
+    "Flutes": false,
+    "Speed": true,
+    "FeedPerFlute": false,
+    "Feed": true,
+    "FeedPerRev": true,
+    "Length": true,
+    "Pitch": false
+  },
+  "EndMill": {
+    "Flutes": true,
+    "Speed": true,
+    "FeedPerFlute": true,
+    "Feed": true,
+    "FeedPerRev": false,
+    "Length": true,
+    "Pitch": false
+  },
+  "FaceMill": {
+    "Flutes": true,
+    "Speed": true,
+    "FeedPerFlute": true,
+    "Feed": true,
+    "FeedPerRev": false,
+    "Length": true,
+    "Pitch": false
+  },
+  "CuttingTap": {
+    "Flutes": false,
+    "Speed": true,
+    "FeedPerFlute": false,
+    "Feed": true,
+    "FeedPerRev": false,
+    "Length": true,
+    "Pitch": true
+  }
+}
